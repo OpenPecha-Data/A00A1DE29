@@ -1,0 +1,27 @@
+segment_sources:
+  IEB34ADDB:
+    type: origin_type
+    relation: translation
+    base: '3357'
+    lang: en
+  I35751968:
+    type: origin_type
+    relation: translation
+    base: 1C9D
+    lang: bo
+segment_pairs:
+  8fa1dba8cb42464aa9fa86ff08c9bbcb:
+    IEB34ADDB: 71ed2e3135f244cd9f755937e9891204
+    I35751968: 028524fd31f84e8d869708fd0f2d68d0
+  669f26458f09455d9ff7c399d14ae05b:
+    IEB34ADDB: 3bcccc974c8f4584b8c8de0bd222e3a5
+    I35751968: 81bdfd192e774066aa61a06e635cd28e
+  1c9679d90ddb4604b52b7becfbedcb1e:
+    IEB34ADDB: 90395854be94409fba34b3864f6048fc
+    I35751968: 78de1069bc424125b1e2fa1012b41b1f
+  b082299a594b42efad6d1de66e485515:
+    IEB34ADDB: 7bb634fbe3594f05bf9336f7ed3cb0d1
+    I35751968: 3048284609464de9b382bad972d76ccc
+  ea60a4040e354241b607d519f8d8f18c:
+    IEB34ADDB: bc211a895f5d435c8cb085a503150564
+    I35751968: ea42242b8e97400fbe30c5021e8e26fd

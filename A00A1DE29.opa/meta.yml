@@ -1,0 +1,19 @@
+id: A00A1DE29
+title: Prayer to Yeshe Tsogyal
+type: translation
+pechas:
+- IEB34ADDB
+- I35751968
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:48:56.254950
+  last_modified_at: 2023-01-04 11:48:56.254954
+  collections:
+  - Dudjom Rinpoche Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IEB34ADDB/3357: B358
+  I35751968/1C9D: B358
